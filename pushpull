@@ -1,3 +1,7 @@
+Correction : 
+        #git push -u origin nom-branche
+<-u> si on fait le premier push de la branche.
+
   la ligne de commande git pour faire un push vers le dépôt distant :
          git push origin master
 
