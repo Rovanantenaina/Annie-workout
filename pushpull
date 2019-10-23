@@ -1,0 +1,5 @@
+  la ligne de commande git pour faire un push vers le dépôt distant :
+         git push origin master
+
+  La ligne de commande git pour faire un pull depuis le dépôt distant :
+         git pull
