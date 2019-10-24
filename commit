@@ -1,0 +1,2 @@
+ La ligne de commande git pour commiter, avec un message, son travail :
+      git commit –m “Commit message”

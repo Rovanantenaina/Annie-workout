@@ -1,0 +1,5 @@
+  #correction :
+    #git clone url-repository url-dossier-local
+ => url-dossier-local peut être un simple point (.) pour indiquer qu'on va cloner dans le répértoire courant
+  La ligne de commande git pour cloner un repository :
+           git clone url-repository
